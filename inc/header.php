@@ -16,9 +16,9 @@
 
 			<header>
 				<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Yellowtail|Bebas Neue">
-				
-				<img src="images/skyline.svg" alt="Skyline of Chicago">
-				<h1>Chicago, Illinois</h1>
+				<div class="header-container">
+					<h1>Chicago, Illinois</h1>
+				</div>
 			</header>
 
 			<?php include "inc/nav.php"; ?>
