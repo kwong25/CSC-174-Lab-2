@@ -11,16 +11,16 @@
 	</head>
 
 	<body>
-	<div class="container">
 
+		<header>
+			<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Yellowtail|Bebas Neue">
+			<div class="header-container">
+				<h1>Chicago, Illinois</h1>
+			</div>
+		</header>
 
-			<header>
-				<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Yellowtail|Bebas Neue">
-				<div class="header-container">
-					<h1>Chicago, Illinois</h1>
-				</div>
-			</header>
+		<?php include "inc/nav.php"; ?>
 
-			<?php include "inc/nav.php"; ?>
+		<div class="container">
 
 			<main>
