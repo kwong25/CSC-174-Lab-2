@@ -53,7 +53,7 @@ h1 {
 }
 
 h2, h3 {
-	color: #FF0000;
+	color: #b3ddf2;
 	font-family: Bebas Neue, sans-serif;
 	font-weight: bold;
 	margin: 0px;
@@ -94,10 +94,10 @@ h4 {margin-top: 5px;}
 	position: absolute;
 	top: 0px;
 	left: 0px;
-	color: #FF0000;
+	color: #940d0d;
 	background-color: #b3ddf2;
 	padding: 0px 10px 0px 10px;
-	border: 3px solid #FF0000;
+	border: 3px solid #940d0d;
 	border-bottom-width: 7px;
 	border-right-width: 7px;
 	border-top-left-radius: 10px;
@@ -172,7 +172,7 @@ h4 {margin-top: 5px;}
 }
 
 .visit h2 {
-	background-color: #092534;
+	background-color: #940d0d;
 	border-radius: 10px;
 	padding: 10px;
 	margin: 20px 0px 20px 0px;
@@ -245,7 +245,7 @@ h4 {margin-top: 5px;}
 }
 
 .food h4, .food strong {
-	color: #FF0000;
+	color: #940d0d;
 	font-weight: bolder;
 }
 
@@ -256,7 +256,7 @@ h4 {margin-top: 5px;}
 }
 
 .gallery img {
-	background-color: #FF0000;
+	background-color: #940d0d;
 	border: 6px solid #092534;
 	border-radius: 10px;
 	padding: 15px;
